@@ -1,7 +1,7 @@
 ﻿import java.util.Scanner;
  /* https://www.acmicpc.net/step/4
  if문 사용해보기 */
-public class BOJAlgorithmForTest {
+public class BOJAlgorithmIfTest {
     public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);
         System.out.println("========9498번========");
@@ -21,7 +21,7 @@ public class BOJAlgorithmForTest {
         }else{
             System.out.println("올바른 점수를 입력하세요.");
         }
-        System.out.println("========10817번========");
+        /*System.out.println("========10817번========");
         int[] data = new int[3];
         for(int a=0; a<data.length; a++){
             data[a] = sc.nextInt();
@@ -49,7 +49,7 @@ public class BOJAlgorithmForTest {
                 System.out.print(data[i]+" ");
             } //if end
         } //for2 end
-        System.out.println("========1546번========");
+*/        System.out.println("========1546번========");
         int n = sc.nextInt();
         int data[] = new int[n];
         for(int i=0; i<data.length; i++){

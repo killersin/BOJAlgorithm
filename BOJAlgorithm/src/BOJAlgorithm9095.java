@@ -1,7 +1,7 @@
 ﻿import java.util.Scanner;
 /* https://www.acmicpc.net/problem/9095
  백준 알고리즘 9095번 : 1,2,3 더하기 */
-public class BOJAlgorithm11053 {
+public class BOJAlgorithm9095 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt(); //방법의 수를 테스트할 갯수

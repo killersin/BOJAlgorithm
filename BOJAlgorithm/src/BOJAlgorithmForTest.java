@@ -50,7 +50,7 @@ public class BOJAlgorithmForTest {
         System.out.println();
       }
     }
-    System.out.println("8393==============");
+   /* System.out.println("8393==============");
       System.out.print("수를 입력 : ");
       int a = sc.nextInt();
       int sum = 0;
@@ -89,5 +89,5 @@ public class BOJAlgorithmForTest {
           System.out.println("글자수를 초과하거나 부족합니다.");
         }
          
-    }      
+    }      */
 }
