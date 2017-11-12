@@ -1,6 +1,8 @@
 ﻿import java.util.Scanner;
 
-//백준 알고리즘 2609번 : 최대공약수와 최소공배수 구하기 
+/* https://www.acmicpc.net/problem/2609
+       백준 알고리즘 2609번 : 최대공약수와 최소공배수
+ */
 public class BOJAlgorithm2609 {
     public static void main(String[] args) {
       Scanner sc = new Scanner(System.in); 
