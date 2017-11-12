@@ -1,6 +1,6 @@
 ﻿import java.util.Scanner;
  /* https://www.acmicpc.net/step/4
- if문 사용해보기 */
+ if문 사용해보기  */
 public class BOJAlgorithmIfTest {
     public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);
