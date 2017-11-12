@@ -1,6 +1,6 @@
 ﻿import java.util.Scanner;
  /* https://www.acmicpc.net/step/3
- for문 사용해보기 */
+ for문 사용해보기  */
 public class BOJAlgorithmForTest {
     public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);
