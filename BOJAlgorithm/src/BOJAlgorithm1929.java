@@ -1,6 +1,7 @@
 ﻿import java.util.Scanner;
 
-//백준 알고리즘 1929번 : 소수 구하기
+/*	백준 알고리즘 1929번 : 소수 구하기
+	https://www.acmicpc.net/problem/1924 */
 public class BOJAlgorithm1929 {
   public static void main(String[] args) {
     System.out.print("수를 입력 : ");
