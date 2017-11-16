@@ -1,6 +1,7 @@
 ﻿import java.util.Scanner;
 
-//백준 알고리즘 1003번 피보나치 함수  
+/*	백준 알고리즘 1003번 피보나치 함수  
+	https://www.acmicpc.net/problem/1003 */
 public class BOJAlgorithm1003 {
     private static int fiboZero = 0;
     private static int fiboOne = 0;
